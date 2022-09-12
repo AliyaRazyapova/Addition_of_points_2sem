@@ -1,8 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-using System.Runtime.Serialization;
-using System.Windows.Markup;
-using Aisd_1.Evaluator;
+﻿using Aisd_1.Evaluator;
 using Aisd_1.Formatter;
 using Aisd_1.Nodes;
 using Aisd_1.Parser;

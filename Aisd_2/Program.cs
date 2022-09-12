@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-using Aisd2;
+﻿using Aisd2;
 
 var bst = new RedBlackTree<int, int>();
 

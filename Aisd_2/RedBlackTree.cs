@@ -258,12 +258,6 @@ public class RedBlackTree<TKey, TValue>
         }
 
         return node;
-        // if (node == null || Equals(node.Key, key))
-        //     return node;
-        //
-        // if(key?.GetHashCode() < node.Hash)
-        //     return SearchInternal(node.Left, key);
-        // return SearchInternal(node.Right, key);
     }
 
     /// <summary>
