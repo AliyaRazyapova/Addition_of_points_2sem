@@ -1,0 +1,5 @@
+Xor
+Logic.GetXor
+bool
+a:bool
+b:bool

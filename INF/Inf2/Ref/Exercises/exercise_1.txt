@@ -1,0 +1,5 @@
+FindSum
+Summator.GetSum
+int
+a:int
+b:int

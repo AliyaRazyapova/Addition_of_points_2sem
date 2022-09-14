@@ -1,0 +1,4 @@
+UpperCase
+Str.GetUpperCase
+string
+str:string

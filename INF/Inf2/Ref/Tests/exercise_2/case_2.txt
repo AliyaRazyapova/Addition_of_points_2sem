@@ -1,0 +1,2 @@
+str:Ivanov@1
+IVANOV@1
